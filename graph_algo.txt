@@ -1,0 +1,17 @@
+1) DFS:
+
+2) BFS:
+
+3) Dijkstra's algo: (shortest path on weighted graph)
+
+4) Bellman Ford's algo: (negative cycle graph)
+
+5) Floyd Warshall's algo: (all pair shortest path graph)
+
+6) Disjoint set union:
+
+7) Minimum Spanning Tree:
+
+8) Kruskal's algo: (mst in logn)
+
+9) Prim's algo: (mst)

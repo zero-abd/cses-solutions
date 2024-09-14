@@ -1,0 +1,39 @@
+another one: https://judge.yosupo.jp/
+
+problem approach: 
+1) Try greedy approach
+2) Try dp of two dimension (grid)
+3) 
+
+
+
+Introductory problem:
+1) Bitmasking
+2) dp on grid
+3) 
+
+Graph:
+1) dfs - depth traversal
+2) bfs - level order traversal
+3) grid grapg implementation
+4) Dijkstras algo - shortest path on weighted edges
+5) Multi source bfs - lava problem
+6) Floyd Warshall algo - all pair shortest path
+7) Topological Sorting - course work problem
+8) Bellman Ford algo - negative weighted graph, finding negative cycle;
+9) dfs with stack to retrieve cycle;
+10) Bipartite graph - flow through graph
+11) 
+
+
+Trees:
+1) dfs in trees
+2) binary lifting - kth ancestor
+3) lca - lowest common ancestor
+4) dp on trees
+5) prefix sum on trees
+6) rooting trees at different vertex
+7) hopkraft karp algorithm
+
+Sorting and Searching:
+1) 
